@@ -1,0 +1,20 @@
+key	en	ee	ru
+title	Risk of Ovarian Malignancy Algorithm (ROMA) calculator	Risk of Ovarian Malignancy Algorithm (ROMA) kalkulaator	Kалькулятор для расчёта индекса ROMA
+Input	Input data	Algandmed	Начальные данные
+ca125c	Elecsys CA 125 II activity, kU/l	Elecsys CA 125 II aktiivsus, kU/l	Активность Elecsys CA 125 II, kU/l
+he4c	Elecsys HE4 concetration, pmol/l	Elecsys HE4 kontsentratsioon, pmol/l	Концентрация Elecsys HE4, pmol/l
+status	Mensturation Cycle Status	Menstruatsiooni tsükli staatus	Статус менструального цикла
+Premenopause	Premenopause	Premenopaus	Пременопауза
+Postmenopause	Postmenopause	Postmenopaus	Постменопауза
+calcv	Reveal calculation	Näita arvutuskäiku	Показать расчёты
+footer	<footer> Coded by: <a href=\"mailto:sergei.mihhailov@ivkh.ee\" target=\"_blank\">Sergei Mihhailov</a></footer>	<footer> Koodi arendaja: <a href=\"mailto:sergei.mihhailov@ivkh.ee\" target=\"_blank\">Sergei Mihhailov</a></footer>	<footer> Разработчик: <a href=\"mailto:sergei.mihhailov@ivkh.ee\" target=\"_blank\">Сергей Михайлов</a></footer>
+Result	Result	Tulemus	Результат
+given1	Based on HE4 concentration 	Võttes arvesse HE4 kontsentratsiooni	Основываясь на концентрации HE4 
+given2	 pmol/l and CA125 activity 	 pmol/l ja CA125 aktiivsuse 	 pmol/l и активности CA125, 
+given3	 kU/l,<br>the ROMA index is ...	 kU/l,<br>ROMA väärtus on ... 	 индекс ROMA равен... 
+Interpretation	Interpretation	Tõlgendus	Интерпретация
+interpl	<b>Low risk</b> of finding epithelial ovarian cancer.	Epiteliaalse munasarjavähi tuvastimise <b>risk on madal</b>.	<b>Низкий риск</b> нахождения эпителиального рака яичников.
+interph	<b>High risk</b> of finding epithelial ovarian cancer.	Epiteliaalse munasarjavähi tuvastamise <b>risk on kõrge</b>.	<b>Высокий риск</b> нахождения эпителиального рака яичников.
+calcpr	ROMA calculation for premenopausal women:	ROMA arvutamine premenopausis naiste puhul:	Расчёт индекса ROMA в период пременопаузы:
+calcpo	ROMA calculation for postmenopausal women:	ROMA arvutamine postmenopausis naiste puhul:	Расчёт индекса ROMA в период постменопаузы:
+source	<a href=http://www.cobas.com/content/dam/cobas_com/pdf/product/Elecsys%20HE4%20Human%20Epididymal%20Protein%204/ROMA%20fact%20sheet.pdf target=\"_blank\">Source data</a>	<a href=http://www.cobas.com/content/dam/cobas_com/pdf/product/Elecsys%20HE4%20Human%20Epididymal%20Protein%204/ROMA%20fact%20sheet.pdf target=\"_blank\">Andmete allikas</a>	<a href=http://www.cobas.com/content/dam/cobas_com/pdf/product/Elecsys%20HE4%20Human%20Epididymal%20Protein%204/ROMA%20fact%20sheet.pdf target=\"_blank\">Источник</a>
